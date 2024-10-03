@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-<img src="https://camo.githubusercontent.com/d6d30a397aec69cd6342cfc93ef779b68268a7ff5609892d0ce529e7e0a6b7c2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d6461726b2367682d6461726b2d6d6f64652d6f6e6c79" alt="EinzzCookie's GitHub stats-Dark" data-canonical-src="https://github-readme-stats.vercel.app/api?username=TheEinzzCookie&amp;show_icons=true&amp;theme=dark#gh-dark-mode-only" style="max-width: 100%;">
+<img src="https://github-readme-stats.vercel.app/api/?username=TheEinzzCookie&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="TheEinzzCookie's GitHub stats" style="max-width: 100%;">
 </div>
 
 ###
