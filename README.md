@@ -2,8 +2,6 @@
 
 ###
 
-<img align="right" height="190" src="https://avatars.githubusercontent.com/u/183540103?v=4"  />
-
 ###
 
 <div align="left">
