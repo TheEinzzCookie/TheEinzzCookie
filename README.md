@@ -1,4 +1,4 @@
-<p align="left">Hi 👋! My name is EinzzCookie and I'm a developer, from an unknown place...</p>
+<p align="left">Hi 👋! My name is EinzzCookie and I'm a developer...</p>
 
 ###
 
