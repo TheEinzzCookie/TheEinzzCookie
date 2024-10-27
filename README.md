@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="190" src="https://cdn.discordapp.com/avatars/672737796699455492/55083df2d311b65101b06f577f921294?size=1024"  />
+<img align="right" height="190" src="https://avatars.githubusercontent.com/u/183540103?v=4"  />
 
 ###
 
