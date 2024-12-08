@@ -1,5 +1,12 @@
 <p align="center">Hi 👋! My name is EinzzCookie and I'm a developer...</p>
-
+<p align="center"><pre><code>
+Exception has occurred: NameError
+name 'Bio' is not defined
+  File "C:\Users\cookie\Software\main.py", line 1, in &lt;module&gt;
+    print(Bio)
+          ^^^
+NameError: name 'Bio' is not defined
+</code></pre></p>
 ###
 
 <br clear="both">
