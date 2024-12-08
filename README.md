@@ -13,23 +13,9 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://x.com/EinzzCookie" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
   <a href="https://discordapp.com/users/672737796699455492" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/21317298/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://media.tenor.com/y5aEz9oTMNAAAAAi/warden-minecraft.gif"  />
 </div>
 
 ###
